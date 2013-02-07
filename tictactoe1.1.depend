@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1358852604 source:c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\main.cpp
+	<iostream>
+	"playerx.h"
+	"Boardx.h"
+	"Gamex.h"
+
+1359037818 source:c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\gamex.cpp
+	"Gamex.h"
+	"Playerx.h"
+	"Boardx.h"
+
+1359036236 c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\gamex.h
+	"playerx.h"
+	"Boardx.h"
+	<iostream>
+
+1359037764 c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\playerx.h
+	<string>
+	<iostream>
+
+1358854037 c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\boardx.h
+	<iostream>
+
+1359037764 source:c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\playerx.cpp
+	"playerx.h"
+	"Gamex.h"
+
+1359043060 source:c:\users\lenovo\desktop\codeblocks\yeah\tictactoe1.1\boardx.cpp
+	"Boardx.h"
+	"Playerx.h"
+	"Gamex.h"
+
+1359037818 source:c:\users\lenovo\desktop\tictactoe1.1\gamex.cpp
+	"Gamex.h"
+	"Playerx.h"
+	"Boardx.h"
+
+1359036236 c:\users\lenovo\desktop\tictactoe1.1\gamex.h
+	"playerx.h"
+	"Boardx.h"
+	<iostream>
+
+1359037764 c:\users\lenovo\desktop\tictactoe1.1\playerx.h
+	<string>
+	<iostream>
+
+1358854037 c:\users\lenovo\desktop\tictactoe1.1\boardx.h
+	<iostream>
+
+1358852604 source:c:\users\lenovo\desktop\tictactoe1.1\main.cpp
+	<iostream>
+	"playerx.h"
+	"Boardx.h"
+	"Gamex.h"
+
+1359037764 source:c:\users\lenovo\desktop\tictactoe1.1\playerx.cpp
+	"playerx.h"
+	"Gamex.h"
+
+1359043060 source:c:\users\lenovo\desktop\tictactoe1.1\boardx.cpp
+	"Boardx.h"
+	"Playerx.h"
+	"Gamex.h"
+

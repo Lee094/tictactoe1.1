@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="boardx.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="321" topLine="0" />
+	</File>
+	<File name="boardx.h" open="1" top="0" tabpos="3">
+		<Cursor position="299" topLine="0" />
+	</File>
+	<File name="gamex.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1118" topLine="32" />
+	</File>
+	<File name="gamex.h" open="1" top="0" tabpos="5">
+		<Cursor position="365" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="125" topLine="0" />
+	</File>
+	<File name="playerx.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="420" topLine="2" />
+	</File>
+	<File name="playerx.h" open="1" top="0" tabpos="1">
+		<Cursor position="403" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
